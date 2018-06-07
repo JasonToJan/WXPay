@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'keystore'
-            keyPassword '986793021'
-            storeFile file('E:/Android_Develop/keystore/keystore.jks')
-            storePassword '986793021'
+            //keyAlias 'keystore'
+            //keyPassword '986793021'
+            //storeFile file('E:/Android_Develop/keystore/keystore.jks')
+            //storePassword '986793021'
         }
     }
     compileSdkVersion 26
